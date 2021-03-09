@@ -1,21 +1,21 @@
 {
   "projects":[
     {
-      "id": "0100",
+      "id": "100",
       "client": "Thumbtack",
       "name": "Thumbtack Brand Site",
       "description": "Thumbtack's showcase of the brand.",
       "date": "01.20.20"
     },
     {
-      "id": "0101",
+      "id": "101",
       "client": "Thumbtack",
       "name": "Thumbtack Design Landing Page",
       "description": "Thumbtack's recruiting page for the design team.",
       "date": "06.10.20"
     },
     {
-      "id": "0102",
+      "id": "102",
       "client": "Thumbtack",
       "name": "Thumbtack Pro Offerings 101 Landing Page",
       "description": "Thumbtack's release of new features geared towards Pros to help increase their customer leads.",
